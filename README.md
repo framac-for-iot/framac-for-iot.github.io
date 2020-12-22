@@ -1,7 +1,7 @@
 # Frama-C for the Internet of Things
 
 [Frama-C](https://frama-c.com) is a framework for the static and dynamic analysis of ANSI-C programs. 
-We explore the use of this framework for the formal verification of IoT software, in particular the (Contiki)[] lightweight operating system.
+We explore the use of this framework for the formal verification of IoT software, in particular the [Contiki](http://www.contiki-os.org) lightweight operating system.
 
 Our work include research work on the verification of Contiki and other IoT software, research work on extension of Frama-C to ease IoT verification, 
 as well as tutorials on these topics. 
@@ -15,9 +15,9 @@ as well as tutorials on these topics.
 ## Papers in Conference Proceedings
 
 1. Allan Blanchard, Nikolai Kosmatov, and Frédéric Loulergue. Logic against ghosts: Comparison of two proof approaches for a list module. In ACM Symposium on Applied Computing (SAC), pages 2186-2195. ACM, 2019. Best Paper Award. [doi](http://dx.doi.org/10.1145/3297280.3297495)
-1. Allan Blanchard, Frédéric Loulergue, and Nikolai Kosmatov. Towards Full Proof Automation in Frama-C using Auto-Active Verification. In Nasa Formal Methods, LNCS, pages 88--105. Springer, 2019. [doi](http://dx.doi.org/10.1007/978-3-030-20652-9_6)
-1. Allan Blanchard, Nikolai Kosmatov, and Frédéric Loulergue. Ghosts for Lists: A Critical Module of Contiki Verified in Frama-C. In Nasa Formal Methods, number 10811 in LNCS, pages 37--53. Springer, 2018. [doi](http://dx.doi.org/10.1007/978-3-319-77935-5_3)
-1. Frédéric Loulergue, Allan Blanchard, and Nikolai Kosmatov. Ghosts for lists: from axiomatic to executable specifications. In Tests and Proofs (TAP), volume 10889 of LNCS, pages 177--184. Springer, 2018. [doi](http://dx.doi.org/10.1007/978-3-319-92994-1_11)
+1. Allan Blanchard, Frédéric Loulergue, and Nikolai Kosmatov. Towards Full Proof Automation in Frama-C using Auto-Active Verification. In Nasa Formal Methods, LNCS, pages 88-105. Springer, 2019. [doi](http://dx.doi.org/10.1007/978-3-030-20652-9_6)
+1. Allan Blanchard, Nikolai Kosmatov, and Frédéric Loulergue. Ghosts for Lists: A Critical Module of Contiki Verified in Frama-C. In Nasa Formal Methods, number 10811 in LNCS, pages 37-53. Springer, 2018. [doi](http://dx.doi.org/10.1007/978-3-319-77935-5_3)
+1. Frédéric Loulergue, Allan Blanchard, and Nikolai Kosmatov. Ghosts for lists: from axiomatic to executable specifications. In Tests and Proofs (TAP), volume 10889 of LNCS, pages 177-184. Springer, 2018. [doi](http://dx.doi.org/10.1007/978-3-319-92994-1_11)
 
 # Code
 
