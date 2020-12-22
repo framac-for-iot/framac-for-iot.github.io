@@ -6,8 +6,6 @@ We explore the use of this framework for the formal verification of IoT software
 Our work include research work on the verification of Contiki and other IoT software, research work on extension of Frama-C to ease IoT verification, 
 as well as tutorials on these topics. 
 
-# News
-
 # Research Papers
 
 ## Papers in Journals
